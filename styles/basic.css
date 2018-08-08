@@ -5,6 +5,7 @@ a:visited {color:#6984FF;} /* visited link */
 /* Styles for basic stuff */
 body {
 	background-color:#131956;
+	background-image:url('../layout/background.jpg');
 }
 
 /* Forces a vertical scrollbar for consistency */
