@@ -1,0 +1,186 @@
+/* Style Sheet for Icon Navigation System */
+
+/* Styles for placement of icons on page and for hover-over cursor */
+
+.label {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	display:block;
+}
+
+#story {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/story.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#story:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/story.png');
+	}
+
+#characters {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/characters.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#characters:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/characters.png');
+	}
+
+#enemies {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/enemies.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#enemies:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/enemies.png');
+	}
+
+#swords {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/swords.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#swords:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/swords.png');
+	}
+
+#armor {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/armor.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#armor:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/armor.png');
+	}
+
+#items {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/items.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#items:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/items.png');
+	}
+
+#spells {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/spells.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#spells:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/spells.png');
+	}
+
+#world {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/world.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#world:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/world.png');
+	}
+
+#walkthrough {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/walkthrough.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#walkthrough:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/walkthrough.png');
+	}
+
+#music {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/music.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#music:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/music.png');
+	}
+
+#links {
+	height:72px;
+	width:72px;
+	background-image:url('../layout/links.png');
+	background-position:center center;
+	background-repeat:no-repeat;
+	display:block;
+	position:relative;
+	margin:15px auto;
+	margin-bottom:5px;
+}
+
+	#links:hover{
+		background-image:url('../layout/cursor.png'),url('../layout/links.png');
+	}

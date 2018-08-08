@@ -1,0 +1,13 @@
+/* Styles for links */
+a:link {color:#FFFFFF;}    /* unvisited link */
+a:visited {color:#6984FF;} /* visited link */
+
+/* Styles for basic stuff */
+body {
+	background-color:#131956;
+}
+
+/* Forces a vertical scrollbar for consistency */
+html {
+	 overflow-y: scroll;
+}
