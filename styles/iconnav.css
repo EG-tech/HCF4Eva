@@ -12,7 +12,7 @@
 #story {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/story.png');
+	background-image:url('../layout/story.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -28,7 +28,7 @@
 #characters {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/characters.png');
+	background-image:url('../layout/characters.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -44,7 +44,7 @@
 #enemies {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/enemies.png');
+	background-image:url('../layout/antivirus.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -60,7 +60,7 @@
 #swords {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/swords.png');
+	background-image:url('../layout/cardiff.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -76,7 +76,7 @@
 #armor {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/armor.png');
+	background-image:url('../layout/bbs.gif');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -92,7 +92,7 @@
 #items {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/items.png');
+	background-image:url('../layout/games.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -108,7 +108,7 @@
 #spells {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/spells.png');
+	background-image:url('../layout/www.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -124,7 +124,7 @@
 #world {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/world.png');
+	background-image:url('../layout/locations.png');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -140,7 +140,7 @@
 #walkthrough {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/walkthrough.png');
+	background-image:url('../layout/creators.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
@@ -172,7 +172,7 @@
 #links {
 	height:72px;
 	width:72px;
-	background-image:url('../layout/links.png');
+	background-image:url('../layout/links.jpeg');
 	background-position:center center;
 	background-repeat:no-repeat;
 	display:block;
