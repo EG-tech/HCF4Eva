@@ -7,8 +7,9 @@
 #header {
   width:960px;
   height:150px;
-  background-image:url('../layout/crystalisheader11.png');
+  background-image:url('../layout/HCF_logo.jpeg');
   background-color:#6984FF;
+  text-align: center
 }
 
 #content {
